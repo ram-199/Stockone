@@ -1,0 +1,12 @@
+{
+	
+	"url":"http://65.108.41.31:1089/#/",
+	"username":"GR_BLR_BNGPR",
+	"password":"Stockone@123",
+	"sku":"PID/CN/0075",
+	"skud":["PID/CN/0069","PID/CN/0073","PID/CN/0070","PID/NS/0099","PID/NS/0130","TLAPIB1W9LNX24PQBNZ6YPNZ9HLK759","PID/BR/0043","PID/BR/0040","PID/BR/0039","PID/RI/0141"],
+	"sku1_unitprice":[1,2,3,4,5,6,7,8,9,10],
+	"cgst":[2,2.5,3,3.5,4,4.5,5,5.5,6,6.5],
+	"sup_name":"Granary"
+
+}
